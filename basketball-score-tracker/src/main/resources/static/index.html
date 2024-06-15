@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basketball Score Tracker</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/scripts.js" defer></script>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Basketball Score Tracker</h1>
+    </header>
+    <main>
+        <div id="scoreboard" class="scoreboard">
+            <div class="team">
+                <h2>Home: <span id="homeTeamName">Team A</span></h2>
+                <p id="homeScore" class="score">0</p>
+            </div>
+            <div class="time">
+                <h2>Time Remaining</h2>
+                <p id="timeRemaining" class="time-remaining">00:00</p>
+            </div>
+            <div class="team">
+                <h2>Away: <span id="awayTeamName">Team B</span></h2>
+                <p id="awayScore" class="score">0</p>
+            </div>
+        </div>
+        <div class="controls">
+            <button onclick="startGame()">Start Game</button>
+            <button onclick="pauseGame()">Pause Game</button>
+            <button onclick="resumeGame()">Resume Game</button>
+            <button onclick="updateScore()">Update Score</button>
+        </div>
+        <p id="gameStatus" class="status"></p>
+
+    </main>
+</div>
+</body>
+</html>

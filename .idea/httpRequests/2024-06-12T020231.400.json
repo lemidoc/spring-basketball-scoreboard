@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-06-12T00:02:31.227+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/game/update"
+}
