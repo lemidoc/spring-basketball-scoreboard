@@ -19,5 +19,6 @@ This is a simple basketball scoreboard application built with Spring Boot for ma
 ## Frontend
 The frontend for this application is built with HTML, CSS, and JavaScript. It is located in the src/main/resources/static directory.
 
-![image](https://github.com/lemidoc/spring-basketball-scoreboard/assets/156967555/6d153324-8576-4c1d-9508-fd77d6dcc1c3)
+![image](https://github.com/lemidoc/spring-basketball-scoreboard/assets/156967555/af57a965-fa72-40bf-b9f3-fa96a7c139e4)
+
 
