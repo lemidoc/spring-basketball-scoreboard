@@ -1,6 +1,6 @@
 # Basketball Scoreboard Application (Spring Boot & HTML, CSS, JavaScript - preview at the end)
 
-This is a simple basketball scoreboard application built with Spring Boot for managing basketball games created in Spring. The application allows users to start a game by setting the game duration and team names, pause and resume the game, and update the scoreboard. The frontend is built with HTML, CSS, and JavaScript, and the API endpoints were tested using Postman.
+This is a simple basketball scoreboard application built with Spring Boot for managing basketball games. The application allows users to start a game by setting the game duration and team names, pause and resume the game, and update the scoreboard. The frontend is built with HTML, CSS, and JavaScript, and the API endpoints were tested using Postman.
 
 ## Features
 
